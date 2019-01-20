@@ -1,0 +1,2 @@
+# Twitter-Sentiment-Analysis-With-RTextTools
+achine learning makes sentiment analysis more convenient. This post would introduce how to do sentiment analysis with machine learning using R. In the landscape of R, the sentiment R package and the more general text mining package have been well developed by Timothy P. Jurka. You can check out the sentiment package and the fantastic RTextTools package. Actually, Timothy also writes an maxent package for low-memory multinomial logistic regression (also known as maximum entropy).
